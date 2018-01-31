@@ -1,0 +1,17 @@
+﻿Web
+- Nộp code qua CD vào thứ 2
+- 25/5 bảo vệ trên 609 thư viện
+- Báo cáo cỡ 10 trang
+•	php artisan migrate:refresh --seed
+
+Các hệ phân tán
+- Nộp code qua CD vào thứ 2
+- 26/5 bảo vệ 
+- Báo cáo cỡ 10 trang
+
+
+Khai phá web
+Các bạn chú ý lịch làm BTL:
+- Thời hạn nộp bản mềm báo cáo Bài tập lớn (BTL): 12/5
+- Thời hạn nộp bản cứng báo cáo + bản mềm poster + chương trình, dữ liệu, tài liệu (nếu có): 26/5
+- Lịch bảo vệ BTL: 26/5
